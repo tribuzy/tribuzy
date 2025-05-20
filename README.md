@@ -2,19 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Hadassa+Tribuzy;Tenho+16+anos;Sou+do+Brasil;Estudo+no+3º+ano+do+Ensino+Médio+Técnico;Curso+Informática+no+IFAM+Iranduba;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hadassatribuzy&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de Hadassa" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadassatribuzy&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hadassatribuzy&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadassatribuzy&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true" alt="Gráfico de Atividades" />
-</div>
-
 ---
 
 ### 🛠️ Minhas principais habilidades:
@@ -44,15 +31,6 @@
   <a href="mailto:seuemailaqui@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
----
-
-<div align="center">
-  <br>
-  <p><b>👀 Número de visitantes no perfil:</b></p>  
-  <img src="https://profile-counter.glitch.me/hadassatribuzy/count.svg" />
-  <br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
